@@ -1,0 +1,13 @@
+h1 {
+    text-transform: uppercase;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    padding: 15px;
+}
+h2 {
+    font-family:Georgia;
+}
+body{
+    padding: 15px
+}
